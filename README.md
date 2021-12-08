@@ -13,7 +13,7 @@ the performance of the models to determine if they should be used to predict cre
 
 ## Results
 
-# Random Oversampling
+### Random Oversampling
 
 - Accuracy Score: 67.2%
 - Precision High Risk: 1%
@@ -23,7 +23,7 @@ the performance of the models to determine if they should be used to predict cre
 
 ![This is an image](https://github.com/jstawarz/credit_risk_analysis/blob/main/resources/oversampling.png)
 
-# SMOTE
+### SMOTE
 
 - Accuracy Score: 66.7%
 - Precision High Risk: 1%
@@ -33,7 +33,7 @@ the performance of the models to determine if they should be used to predict cre
 
 ![This is an image](https://github.com/jstawarz/credit_risk_analysis/blob/main/resources/smote.png)
 
-# Cluster Centroid
+### Cluster Centroid
 
 - Accuracy Score: 51.2%
 - Precision High Risk: 0%
@@ -43,7 +43,7 @@ the performance of the models to determine if they should be used to predict cre
 
 ![This is an image](https://github.com/jstawarz/credit_risk_analysis/blob/main/resources/cluster_centroid.png)
 
-# SMOTEENN
+### SMOTEENN
 
 - Accuracy Score: 68.0%
 - Precision High Risk: 1%
@@ -53,7 +53,7 @@ the performance of the models to determine if they should be used to predict cre
 
 ![This is an image](https://github.com/jstawarz/credit_risk_analysis/blob/main/resources/smoteenn.png)
 
-# Random Forest 
+### Random Forest 
 
 - Accuracy Score: 64.8%
 - Precision High Risk: 56%
@@ -63,7 +63,7 @@ the performance of the models to determine if they should be used to predict cre
 
 ![This is an image](https://github.com/jstawarz/credit_risk_analysis/blob/main/resources/random_forest.png)
 
-# Easy Ensemble
+### Easy Ensemble
 
 - Accuracy Score: 92.2%
 - Precision High Risk: 6%
