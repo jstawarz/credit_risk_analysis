@@ -79,9 +79,9 @@ the performance of the models to determine if they should be used to predict cre
 When looking at the machine learning models, the model with the highest accuracy score is the Easy Ensemble model with 92.2%. However, 
 as credit risk is inherently imbalanced, it is important to take into consideration the precision and recall scores as well. 
 
-With regard to precision versus recall, in this case, recall or sensitivity is more important as Lending Club will want to ensure that loans 
-identified as high risk, are actually high risk. Here, the model with the highest recall rate for high risk loans is aslo the Easy Ensemble 
-model with 91%. 
+With regard to precision versus recall, in this case, recall or sensitivity is more important as Lending Club will want to ensure that 
+high risk loans are accurately identified as such. Additionally, we can look for the model that has the least amount of high risk loans
+misidentified as low risk loans. Here, the model with the highest recall rate for high risk loans is aslo the Easy Ensemble model with 91%. 
 
 Owing to the high accuracy rate, and high recall rate for high risk loans, I would recommend using the Easy Ensemble model. 
 
